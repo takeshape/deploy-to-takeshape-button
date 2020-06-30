@@ -4,7 +4,7 @@ To use this button, replace `org` and `repo` in the `href` and include the HTML 
 
 ## How it looks
 
-<a href="//app.takeshape.io/add-to-takeshape/org/repo"><img alt="Add To TakeShape" src="https://github.com/takeshape/add-to-takeshape-button/blob/master/Add%20to%20TakeShape.png?raw=true" width=152 height=30</a>
+<a href="//app.takeshape.io/add-to-takeshape/org/repo"><img alt="Add To TakeShape" src="https://github.com/takeshape/add-to-takeshape-button/blob/master/Add%20to%20TakeShape.png?raw=true" width=152 height=30"></a>
 
 ## The HTML
 
