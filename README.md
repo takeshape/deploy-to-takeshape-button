@@ -1,8 +1,6 @@
 # deploy-to-takeshape-button
 
-To use this button, replace the `repo` parameter in the `href` with the URL to your repo. Then include the HTML in your project's `README.md`.
-
-[Learn about sharing Patterns](https://www.takeshape.io/docs/sharing-patterns/)
+To use this button, replace the `repo` parameter in the `href` with the URL to your repository. Then include the HTML in your repo's `README.md`. The repo must be a valid [TakeShape Pattern](https://www.takeshape.io/docs/patterns/).
 
 ## How it looks
 
